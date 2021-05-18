@@ -1,0 +1,27 @@
+{
+  "name": "3d_pixel_mapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/express_app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikipupiba/3D_Pixel_Mapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikipupiba/3D_Pixel_Mapping/issues"
+  },
+  "homepage": "https://github.com/pikipupiba/3D_Pixel_Mapping#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
